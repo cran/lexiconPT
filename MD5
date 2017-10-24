@@ -1,0 +1,14 @@
+038787ad1fc6f45e1001f6771b6edf5d *DESCRIPTION
+a67bdd4a62751065a5dd06f24cf927b5 *LICENSE
+64c126234d4fb60d7af7139a3acba1e9 *NAMESPACE
+b616c9f35d66bd0352e62b9d50a25b64 *R/data.R
+3c46764d329efc330aa6115fc28e1067 *R/globalVariables.R
+6a42ea4d013ac2898c64ac85bbe96c44 *R/utils.R
+c7907b3f993a9333b39bb3357e1453cc *README.md
+27605bf3c031a81c848de097c735b0b8 *data/oplexicon_v2.1.rda
+94fe5f0553d663a197a6ff0543f8cd4c *data/oplexicon_v3.0.rda
+ba568c6e95eca776010fd76f9c011275 *data/sentiLex_lem_PT02.rda
+cb2195a8818a988cbb879a459a203bfe *man/get_word_sentiment.Rd
+de9dd2443e6ea9957b5cb9c9b28bf10e *man/oplexicon_v2.1.Rd
+a74b119ea7ab111ae3e8ea9f0891cf2a *man/oplexicon_v3.0.Rd
+e5a409f00fe5e645c626a5b7cc40a4b0 *man/sentiLex_lem_PT02.Rd
